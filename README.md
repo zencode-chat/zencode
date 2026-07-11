@@ -1,6 +1,10 @@
-# Zencode
+<p align="center">
+  <img src="assets/zencode-icon.png" width="112" height="112" alt="Zencode app icon">
+</p>
 
-**Turn conversations into working software.**
+<h1 align="center">Zencode</h1>
+
+<p align="center"><strong>Turn conversations into working software.</strong></p>
 
 Zencode is a desktop workspace for building software with AI coding agents. It keeps the conversation, project context, terminal activity, file changes, Git workflow, permissions, and verification in one place so you can move from an idea to a reviewed change without losing sight of what the agent is doing.
 
