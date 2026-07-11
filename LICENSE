@@ -1,0 +1,357 @@
+ZENCODE PROPRIETARY SOFTWARE LICENSE AGREEMENT
+Version 1.0 — 11 July 2026
+
+Copyright © 2026 Zencode. All rights reserved.
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING,
+INSTALLING, ACCESSING, OR USING ZENCODE.
+
+Zencode is proprietary software and is licensed, not sold. By downloading,
+installing, accessing, or using the Software, you agree to this Agreement. If
+you do not agree, do not download, install, access, or use the Software and
+delete every copy in your possession or control.
+
+If you use the Software for an organization, you represent that you have
+authority to bind that organization, and “you” includes that organization.
+
+1. DEFINITIONS
+
+1.1. “Licensor” means Zencode and the person or legal entity that owns or is
+     authorized to license the applicable Zencode proprietary rights.
+
+1.2. “Software” means the Zencode desktop application and all Zencode-owned
+     materials distributed with or for it, including executables, installers,
+     application packages, user interfaces, designs, icons, artwork,
+     documentation, configuration, update metadata, blockmaps, and updates.
+
+1.3. “Official Release” means an unmodified Software package published by
+     Licensor through the official Zencode distribution repository or another
+     distribution channel expressly identified by Licensor.
+
+1.4. “Third-Party Materials” means software, models, agents, fonts, icons,
+     libraries, data, services, or other materials owned or operated by a party
+     other than Licensor and included, referenced, downloaded, or used by the
+     Software.
+
+1.5. “Preview Release” means a build identified as alpha, beta, preview,
+     prerelease, development, canary, nightly, or a similar designation.
+
+2. ELIGIBILITY AND ACCEPTANCE
+
+2.1. You must be legally capable of entering into this Agreement. If applicable
+     law requires parental, guardian, employer, or organizational consent, you
+     may use the Software only after obtaining that consent.
+
+2.2. You are responsible for ensuring that your installation and use comply
+     with laws, regulations, contractual duties, workplace policies, provider
+     terms, and third-party rights applicable to you.
+
+2.3. Additional written terms supplied with an order, subscription, enterprise
+     agreement, promotion, or specific feature control if they conflict with
+     this Agreement for that transaction or feature.
+
+3. LIMITED LICENSE GRANT
+
+3.1. Subject to this Agreement, Licensor grants you a limited, revocable,
+     non-exclusive, non-transferable, non-sublicensable license to download one
+     or more Official Releases, install them on devices you own or control, and
+     use the Software for your personal or internal business purposes.
+
+3.2. This license permits ordinary backup copies reasonably necessary to
+     restore your authorized installation. Each copy remains subject to this
+     Agreement and must preserve all proprietary notices.
+
+3.3. The license grants no ownership interest and no right to receive or access
+     source code, build systems, private repositories, signing infrastructure,
+     internal services, development credentials, or non-public documentation.
+
+3.4. All rights not expressly granted are reserved by Licensor and its
+     licensors. No rights arise by implication, estoppel, exhaustion, custom,
+     course of dealing, or otherwise except where applicable law requires a
+     non-waivable right.
+
+4. OWNERSHIP
+
+4.1. Licensor and its licensors retain all right, title, and interest in and to
+     the Software, including all copyright, patent, trademark, trade-secret,
+     design, database, moral, contractual, and other proprietary rights.
+
+4.2. “Zencode,” its logos, product appearance, and related names and marks are
+     trademarks, service marks, trade dress, or branding of Licensor or its
+     licensors. No trademark license is granted.
+
+4.3. You retain ownership of your projects, files, prompts, and other content
+     you provide to the Software, subject to any rights of other parties. This
+     Agreement does not determine ownership of output produced by a third-party
+     model or service; that issue is governed by applicable law and the terms
+     of the relevant provider.
+
+5. RESTRICTIONS
+
+Except where applicable law expressly provides a non-waivable right, you may
+not, and may not assist or allow another person to:
+
+5.1. copy the Software except as expressly permitted by Section 3;
+
+5.2. sell, resell, sublicense, rent, lease, lend, publish, transmit,
+     redistribute, mirror, host, or otherwise make the Software available to
+     another party;
+
+5.3. modify, translate, adapt, arrange, transform, patch, repackage, or create
+     derivative works based on the Software;
+
+5.4. reverse engineer, decompile, disassemble, decrypt, decode, extract, trace,
+     or attempt to discover source code, underlying ideas, algorithms,
+     non-public interfaces, protocols, file formats, trade secrets, or
+     protective mechanisms from the Software;
+
+5.5. remove, obscure, alter, or falsify copyright, trademark, attribution,
+     authorship, provenance, license, signature, security, integrity, or other
+     proprietary notices;
+
+5.6. bypass or interfere with authentication, authorization, approvals,
+     isolation, signing, integrity checks, update controls, usage restrictions,
+     rate limits, security controls, or licensing mechanisms;
+
+5.7. use the Software to develop, train, improve, evaluate, market, or provide a
+     competing or substantially substitutable product or service, or use the
+     Software itself as training data, benchmark material, retrieval material,
+     or embeddings input for an artificial-intelligence system;
+
+5.8. conduct or publish benchmarks, vulnerability details, comparative tests,
+     or technical analyses of the Software without Licensor's prior written
+     permission, except for confidential good-faith security reporting;
+
+5.9. use Zencode names, logos, visual identity, or product appearance in a
+     domain, product, service, modified build, endorsement, or distribution; or
+
+5.10. use the Software unlawfully, to violate another person's rights, to
+      introduce malicious code, or to gain unauthorized access to systems,
+      accounts, credentials, projects, or data.
+
+6. PROJECTS, COMMANDS, AND AGENT ACTIONS
+
+6.1. The Software can provide models and agents with access to project files,
+     terminals, Git repositories, tools, connected services, and other
+     resources you select. You are responsible for choosing projects,
+     providers, permissions, tools, commands, credentials, and integrations
+     appropriate for your work.
+
+6.2. Model and agent output may be incorrect, incomplete, insecure,
+     non-functional, unsuitable, or subject to third-party rights. You must
+     review and test output and material actions before relying on, committing,
+     publishing, deploying, or distributing them.
+
+6.3. Permission prompts, isolation controls, logs, diffs, or verification tools
+     reduce risk but do not guarantee that an action or result is safe,
+     accurate, authorized, reversible, or fit for a particular purpose.
+
+6.4. You are responsible for maintaining appropriate backups, version-control
+     practices, access controls, and recovery procedures for your projects and
+     devices.
+
+7. PROVIDERS, INTEGRATIONS, AND THIRD-PARTY MATERIALS
+
+7.1. The Software may connect to AI model providers, ACP agents, MCP servers,
+     Git hosts, package registries, terminals, websites, and other third-party
+     products or services. Those products and services are controlled by their
+     providers and remain subject to their own terms, licenses, privacy
+     practices, fees, rate limits, geographic restrictions, and availability.
+
+7.2. You are responsible for credentials, accounts, subscriptions, charges,
+     content, permissions, and activity associated with third-party products or
+     services you connect or invoke.
+
+7.3. Third-Party Materials are not relicensed under this Agreement. Their
+     respective terms apply only to those materials. Nothing in this Agreement
+     restricts rights expressly granted by an applicable third-party license.
+
+7.4. Licensor does not control and is not responsible for third-party products,
+     services, content, output, security, availability, or changes.
+
+8. DATA AND NETWORK ACTIVITY
+
+8.1. The Software stores certain workspace and application data on your device.
+     Features you invoke may send prompts, selected project context, tool
+     requests, credentials, repository data, or other information to the
+     provider or integration you choose.
+
+8.2. You must have all rights and permissions necessary to process and transmit
+     the information you submit. You must not submit secrets, regulated data,
+     confidential information, personal information, source code, or other
+     protected material to a provider or integration unless that use is
+     authorized and its safeguards are appropriate.
+
+8.3. Provider and integration data handling is governed by their respective
+     terms and privacy practices. Licensor is not responsible for a third
+     party's retention, training, disclosure, processing, security, or use of
+     transmitted information.
+
+9. UPDATES
+
+9.1. The Software may check for, download, and install compatible updates from
+     official Zencode distribution infrastructure. Updates may add, change,
+     replace, disable, or remove features, integrations, compatibility, or
+     support.
+
+9.2. Updates supplied by Licensor are part of the Software and subject to this
+     Agreement unless they include different terms.
+
+9.3. Licensor may stop providing a release, update channel, platform build,
+     feature, integration, or compatibility target at any time. You are
+     responsible for installing security and compatibility updates promptly.
+
+10. PREVIEW RELEASES
+
+10.1. Preview Releases are incomplete and may contain errors, security defects,
+      data-loss risks, unfinished behavior, or breaking changes. They may not be
+      suitable for production or other critical use.
+
+10.2. Features, formats, compatibility, performance, and availability in a
+      Preview Release may change without notice and may never appear in a stable
+      release.
+
+10.3. You use Preview Releases at your own risk and should maintain independent
+      backups and recovery procedures.
+
+11. FEEDBACK AND SECURITY REPORTS
+
+11.1. You are not required to provide ideas, suggestions, or other feedback. If
+      you voluntarily provide non-confidential feedback, Licensor may use it
+      without restriction or compensation.
+
+11.2. Suspected vulnerabilities, compromised release assets, exposed
+      credentials, and signing or integrity failures must be reported privately
+      through an official Zencode security-reporting channel. You must not use
+      security research to access, retain, alter, or disclose another person's
+      systems, accounts, credentials, projects, or data.
+
+11.3. Submission of source code, designs, patches, or other copyrightable
+      material does not transfer ownership or grant Licensor rights unless the
+      parties agree to written contribution terms.
+
+12. CONFIDENTIALITY AND CREDENTIALS
+
+12.1. You are responsible for protecting API keys, tokens, certificates,
+      passwords, signing materials, and other credentials used with the
+      Software. Do not share credentials or include them in prompts, logs,
+      screenshots, issues, or security reports unless specifically required by
+      a secure reporting process.
+
+12.2. Non-public information received under a separate confidentiality or
+      access agreement remains governed by that agreement.
+
+13. SUSPENSION AND TERMINATION
+
+13.1. This Agreement and your license continue until terminated. You may
+      terminate them at any time by stopping use and deleting all copies of the
+      Software in your possession or control.
+
+13.2. Your license terminates automatically if you materially breach this
+      Agreement. Licensor may also suspend access to Licensor-operated services
+      when reasonably necessary to protect users, systems, rights, release
+      integrity, or legal compliance.
+
+13.3. Upon termination, you must stop using and delete the Software. Sections
+      concerning ownership, restrictions, responsibility, confidentiality,
+      disclaimers, liability, indemnity, and general terms survive to the
+      extent their nature requires.
+
+14. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE, PREVIEW RELEASES,
+UPDATES, DOCUMENTATION, AND ANY LICENSOR-OPERATED DISTRIBUTION SERVICES ARE
+PROVIDED “AS IS” AND “AS AVAILABLE,” WITH ALL FAULTS AND WITHOUT WARRANTIES,
+CONDITIONS, REPRESENTATIONS, OR GUARANTEES OF ANY KIND, WHETHER EXPRESS,
+IMPLIED, STATUTORY, OR OTHERWISE.
+
+LICENSOR DISCLAIMS, WITHOUT LIMITATION, WARRANTIES OR CONDITIONS OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT,
+ACCURACY, QUIET ENJOYMENT, QUALITY, SECURITY, RELIABILITY, AVAILABILITY,
+COMPATIBILITY, AND THAT THE SOFTWARE OR OUTPUT WILL BE ERROR-FREE,
+UNINTERRUPTED, COMPLETE, SAFE, OR FREE OF HARMFUL COMPONENTS.
+
+Some jurisdictions do not permit certain exclusions. In those jurisdictions,
+the exclusions apply only to the maximum extent permitted by law.
+
+15. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR AND ITS OWNERS, AFFILIATES,
+CONTRIBUTORS, CONTRACTORS, LICENSORS, AND SUPPLIERS WILL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, RELIANCE, OR CONSEQUENTIAL
+DAMAGES, OR FOR LOSS OF PROFITS, REVENUE, BUSINESS, GOODWILL, USE, DATA,
+PROJECTS, CREDENTIALS, OR OPPORTUNITY, ARISING OUT OF OR RELATED TO THE
+SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THEIR TOTAL AGGREGATE LIABILITY FOR
+ALL CLAIMS ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT WILL
+NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID LICENSOR FOR THE SOFTWARE
+DURING THE TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM OR (B)
+FIFTY UNITED STATES DOLLARS (US$50).
+
+The limitations do not apply where and to the extent applicable law prohibits
+their application.
+
+16. INDEMNITY
+
+To the maximum extent permitted by law, you will defend, indemnify, and hold
+harmless Licensor and its owners, affiliates, contributors, contractors,
+licensors, and suppliers from third-party claims, losses, liabilities, costs,
+and reasonable legal fees arising from your unlawful use of the Software, your
+breach of this Agreement, your content or connected services, or your violation
+of another party's rights. This obligation does not apply to the extent a claim
+was caused by Licensor's own conduct and applicable law does not permit the
+obligation.
+
+17. EXPORT, SANCTIONS, AND GOVERNMENT USE
+
+17.1. You must comply with applicable export-control, sanctions, import, and
+      trade laws. You may not use, export, re-export, transfer, or provide the
+      Software where prohibited or without required authorization.
+
+17.2. The Software is commercial computer software. Government use, if any, is
+      subject to the license rights and restrictions stated in this Agreement
+      and applicable procurement law.
+
+18. CHANGES TO THESE TERMS
+
+18.1. Licensor may update this Agreement for future releases. The version
+      supplied with or linked from the release you obtained governs that
+      release unless you accept updated terms or an update states otherwise.
+
+18.2. Continued use after you receive and accept a release governed by updated
+      terms constitutes acceptance of those updated terms.
+
+19. GENERAL TERMS
+
+19.1. This Agreement, together with applicable additional written terms, is the
+      entire agreement concerning the Software and supersedes prior or
+      contemporaneous communications on that subject.
+
+19.2. If a provision is found unenforceable, it will be enforced to the maximum
+      lawful extent and the remaining provisions remain effective.
+
+19.3. Failure to enforce a provision is not a waiver. A waiver must be in
+      writing and applies only to the specific instance stated.
+
+19.4. You may not assign or transfer this Agreement or the license without
+      Licensor's prior written permission. Licensor may assign this Agreement
+      in connection with a reorganization, financing, merger, acquisition,
+      transfer of rights, or sale of assets.
+
+19.5. Licensor is not responsible for delay or failure caused by events beyond
+      its reasonable control.
+
+19.6. Headings are for convenience only. “Including” means “including without
+      limitation.” Electronic acceptance and records have the same effect as
+      paper acceptance and records to the extent permitted by law.
+
+20. CONTACT AND OFFICIAL CHANNELS
+
+Official releases, current documentation, and private security reporting are
+available through:
+
+https://github.com/zencode-chat/zencode
+
+Do not send credentials, API keys, private source code, personal information,
+or vulnerability details through public issues or discussions.
