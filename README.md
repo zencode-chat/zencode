@@ -1,4 +1,8 @@
 <p align="center">
+  <strong>English</strong> · <a href="README.es-ES.md">Español (España)</a>
+</p>
+
+<p align="center">
   <img src="assets/zencode-icon.png" width="112" height="112" alt="Zencode app icon">
 </p>
 
