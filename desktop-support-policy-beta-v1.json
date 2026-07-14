@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "policy": {
+    "schemaVersion": 1,
+    "channel": "beta",
+    "publishedAt": "2026-07-14T06:20:23.646Z",
+    "latestVersion": "0.1.0-beta.10",
+    "minimumSupportedVersion": "0.1.0-beta.10",
+    "minimumSupportedAfter": "2026-07-13T21:53:24.000Z",
+    "downloadUrl": "https://github.com/zencode-chat/zencode/releases"
+  },
+  "signature": "rAN67SrUQFGezKW8S8GYwzB8Et2SkvfGVTLeAhJ2x97MNgBR+Y95MOvWnZAaI6S4eqcInViqOikLWeK/RrmvDg=="
+}
