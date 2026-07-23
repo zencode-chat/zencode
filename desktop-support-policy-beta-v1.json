@@ -3,11 +3,11 @@
   "policy": {
     "schemaVersion": 1,
     "channel": "beta",
-    "publishedAt": "2026-07-23T08:03:57.802Z",
-    "latestVersion": "0.1.0-beta.28",
-    "minimumSupportedVersion": "0.1.0-beta.28",
+    "publishedAt": "2026-07-23T23:04:19.322Z",
+    "latestVersion": "0.1.0-beta.29",
+    "minimumSupportedVersion": "0.1.0-beta.29",
     "minimumSupportedAfter": "2026-07-13T21:53:24.000Z",
     "downloadUrl": "https://github.com/zencode-chat/zencode/releases"
   },
-  "signature": "WTiyqOl4eqZElkc73NJcLJcGY1TB4s0jq3AgMpvyf9hZ4R1IZA5exdaHJYBO1YlwuF9f9t9uZRaukWhYnUHlBw=="
+  "signature": "fAH9QqOEnZrk0v1taEC7eam9A9nzZHTH/ZdhPNOBJZ948VkXXDCQ2rnwwA/6i3cbvWfq0b4xS1yrUTUxjWnnAA=="
 }
